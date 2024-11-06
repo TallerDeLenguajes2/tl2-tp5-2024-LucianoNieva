@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucia\\OneDrive\\Escritorio\\TALLER2\\tl2-tp5-2024-LucianoNieva\\tl2-tp5-2024-LucianoNieva.csproj": {}
+    "D:\\Facultad\\Facultad\\Taller2\\tl2-tp5-2024-LucianoNieva\\tl2-tp5-2024-LucianoNieva.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucia\\OneDrive\\Escritorio\\TALLER2\\tl2-tp5-2024-LucianoNieva\\tl2-tp5-2024-LucianoNieva.csproj": {
+    "D:\\Facultad\\Facultad\\Taller2\\tl2-tp5-2024-LucianoNieva\\tl2-tp5-2024-LucianoNieva.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\OneDrive\\Escritorio\\TALLER2\\tl2-tp5-2024-LucianoNieva\\tl2-tp5-2024-LucianoNieva.csproj",
+        "projectUniqueName": "D:\\Facultad\\Facultad\\Taller2\\tl2-tp5-2024-LucianoNieva\\tl2-tp5-2024-LucianoNieva.csproj",
         "projectName": "tl2-tp5-2024-LucianoNieva",
-        "projectPath": "C:\\Users\\lucia\\OneDrive\\Escritorio\\TALLER2\\tl2-tp5-2024-LucianoNieva\\tl2-tp5-2024-LucianoNieva.csproj",
-        "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\OneDrive\\Escritorio\\TALLER2\\tl2-tp5-2024-LucianoNieva\\obj\\",
+        "projectPath": "D:\\Facultad\\Facultad\\Taller2\\tl2-tp5-2024-LucianoNieva\\tl2-tp5-2024-LucianoNieva.csproj",
+        "packagesPath": "C:\\Users\\DESKTOP\\.nuget\\packages\\",
+        "outputPath": "D:\\Facultad\\Facultad\\Taller2\\tl2-tp5-2024-LucianoNieva\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DESKTOP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
